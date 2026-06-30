@@ -116,7 +116,7 @@ MP4_FILE = "/path/to/video.mp4"
 
 ```python
 SOURCE_TYPE = "twitch"
-TWITCH_CHANNEL = "Jinnytty"
+TWITCH_CHANNEL = "<Name of Channel>"
 ```
 
 ### Direct URL
